@@ -1,0 +1,17 @@
+# Commment
+# User-agent: Googlebot
+
+# Not Neccessary, Default behaviour
+User-agent: *
+Allow: /
+
+# Disallow: / - ALL
+# Disallow: /private_file.html - Single
+
+# User-agent: Googlebot-Image - Images
+# Disallow: / - Block all
+
+# Sitemap: http://www.example.com/sitemap.xml
+
+# User-agent: Googlebot
+# Disallow: /*.xls$
